@@ -52,7 +52,7 @@ dynamic-website-scraper/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/dynamic-website-scraper.git
+git clone https://github.com/muaazb844-del/dynamic-website-scraper-selenium.git
 cd dynamic-website-scraper
 ```
 
@@ -108,4 +108,4 @@ Avg word count   : 21.3 words/quote
 
 ## 📬 Contact
 
-Available for freelance web scraping & automation projects on [Upwork](https://www.upwork.com)!
+Available for freelance web scraping & automation projects on [GitHub profile](https://github.com/muaazb844-del)!
